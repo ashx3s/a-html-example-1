@@ -21,3 +21,5 @@
 - update the repo with a commit after editing files
 - push the code to github
 - X share with students
+
+some changes to demo git commits for specific files
